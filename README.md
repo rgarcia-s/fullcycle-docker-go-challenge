@@ -1,0 +1,1 @@
+Link para a imagem no dockerhub: [rpcgarcias/hello-fullcycle](https://hub.docker.com/repository/docker/rpcgarcias/hello-fullcycle/general)
